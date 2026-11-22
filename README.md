@@ -10,7 +10,7 @@ This project asks one question: **which telecom customers are likely to leave, a
 
 ## Dataset
 
-- **Name:** Telco Customer Churn (IBM sample dataset)
+- **Name:** Telco Customer Churn (IBM sample dataset).
 - **Source:** https://github.com/IBM/telco-customer-churn-on-icp4d
 - **Size:** 7,043 customers and 21 columns
 - **Target for classification:** `Churn` (Yes or No). 5,174 customers stayed and 1,869 left, so the churn rate is **26.5%**.
